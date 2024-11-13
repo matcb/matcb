@@ -1,6 +1,6 @@
 ## <h1> Hi folks, I'm Matheus Barreto, from Rio, Brazil👋 </h1>
 
-Here a share my projects and studies stuffs, welcome!
+<h2>Here a share my projects and studies stuffs, welcome! </h2>
 
 - 🌱 I’m currently learning ...Typescript and React
 - 📫 How to reach me: mathcarvalhobarreto@gmail.com
